@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangjiahao19970508.github.io/github.io/</id>
     <title>王嘉豪BLOG</title>
-    <updated>2021-03-13T14:29:57.866Z</updated>
+    <updated>2021-03-13T14:46:53.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangjiahao19970508.github.io/github.io/"/>
     <link rel="self" href="https://wangjiahao19970508.github.io/github.io/atom.xml"/>
@@ -16,12 +16,5 @@
         <link href="https://wangjiahao19970508.github.io/github.io/post/markdown/">
         </link>
         <updated>2021-03-13T14:25:13.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marmoset Toolbag4基础操作]]></title>
-        <id>https://wangjiahao19970508.github.io/github.io/post/marmoset-toolbag-ji-chu-cao-zuo/</id>
-        <link href="https://wangjiahao19970508.github.io/github.io/post/marmoset-toolbag-ji-chu-cao-zuo/">
-        </link>
-        <updated>2021-01-02T03:04:09.000Z</updated>
     </entry>
 </feed>
